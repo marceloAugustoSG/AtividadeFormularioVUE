@@ -1,4 +1,5 @@
 # Formulario - Tópicos especiais 
+Atividade de tópicos especiais usando o framework vue.js para criar um component chamado NomeSobrenome para fazer o binding data para o componente pai (App.vue) usando o v-model ,emit e props para comunicação dos dados entre os componentes
 
 
 ### Node Modules na pasta do projeto: 
